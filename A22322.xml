@@ -1,0 +1,146 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation for auoiding the consumption of coyne and bullion</title>
+            <title>Proclamations. 1624-07-10</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1624</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 3 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22322</idno>
+            <idno type="STC">STC 8730</idno>
+            <idno type="STC">ESTC S100883</idno>
+            <idno type="EEBO-CITATION">99836710</idno>
+            <idno type="PROQUEST">99836710</idno>
+            <idno type="VID">996</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22322)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 996)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1601:56)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation for auoiding the consumption of coyne and bullion</title>
+                  <title>Proclamations. 1624-07-10</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>By Bonham Norton and Iohn Bill, printers to the Kings most excellent Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1624.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated at end: Wansteede, the tenth day of Iuly, in the two and twentieth yeere of our reigne ..</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Precious metals --  Law and legislation --  Great Britain.</term>
+               <term>Wiredrawing --  Law and legislation.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:996:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 5 -->
+            <head>
+               <figure>
+                  <p>I R</p>
+                  <p>DIEV ET MON DROIT</p>
+                  <p>HONI SOIT QVI MAL Y PENSE</p>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <head>
+               <g ref="char:leaf">❧</g> By the King.</head>
+            <head type="sub">
+               <g ref="char:leaf">❧</g> A Proclamation for auoiding the conſumption of Coyne and Bullion.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hereas the Kings Maieſtie, by ſundry Proclamations, did</hi> heretofore reſtraine and forbid the vnlawfull melting and fining of Gold and Siluer, and the making of Gold and Siluer Threed, Gold and Siluer Foliat, and other like Manufactures, and not finding the effect, which his Highnes aymed at, did grant a Char<g ref="char:EOLhyphen"/>ter of incorporation to the Gouernour, Aſſiſtants, and Com<g ref="char:EOLhyphen"/>minalty of Gold-Wyerdrawers of the citie of <hi>London,</hi> hoping, by re<g ref="char:EOLhyphen"/>ducing thoſe Trades vnder order and gouernment, to auoyde the vnneceſſary waſt and conſumption of Coyne and Bullion within this Realme: But his Maieſtie hauing fully vnderſtood, aſwell by the complaint of his Commons in the late Seſſion of Parlia<g ref="char:EOLhyphen"/>ment, as vpon diligent triall, and examination of that buſineſſe by the Lords of his Priuie Counſell, that not onely the ſaid Corporation (which is thereupon reuoked and declared to be void) but alſo the manufacture of Gold and Siluer Threed, Gold and Siluer Foliat, Purles, Oes, Spangles, and other like, are vnfit to be continued within this Realme; his Maieſtie is reſolued to aboliſh the ſaid Manufactures, and to put in execution the good and wholeſome Lawes of this Realme, againſt thoſe, and other like meanes, of the conſumption of Coyne and Bullion in this Kingdome; And therefore his Maieſtie doeth hereby ſtraitly charge and command, that no Finer of Gold or Siluer, nor Parter of the ſame by fire or water, from hencefoorth allay no fine Siluer, nor Gold, nor none ſell in any other wiſe, ne to any perſon or perſons, but onely to the Officers of his Maieſties Mints, Changes and Goldſmithes, within this Realme, onely for the augmentation, and amending of Coyne and Plate; And that no Fi<g ref="char:EOLhyphen"/>ner nor Finers, Parter nor Parters, ſell to no perſon any manner of Siluer, in Maſſe, molten and allaied; And that no Goldſmith within this Realme, melt or allay any fine Siluer, but one<g ref="char:EOLhyphen"/>ly for making of Amelles, and for amending of Plate, to make it as good as Sterling, as by the Statute in that caſe is prouided; nor that they ſell no fine Siluer, nor other Siluer allaied, molten into Maſſe, to any perſon or perſons whatſoeuer, nor one Goldſmith to another, but that the Statute in this bahalfe, made in the fourth yeere of the Reigne of his Maieſties moſt noble progenitor, King <hi>Henry</hi> the ſeuenth, bee in all points duely obſerued and kept, vpon paine, that euery perſon offending to the contrary ſhall incurre his Maieſties high indigna<g ref="char:EOLhyphen"/>tion, and ſuch puniſhment, as by the Lawes, or his Maieſties Prerogatiue Royall, may bee inflicted for ſuch miſdemeanour and contempt.</p>
+            <closer>
+               <dateline>Giuen at our Court at Wanſteede, <date>the tenth day of Iuly, in the two and twentieth yeereof Our Reigne of Great Britaine, France and Ireland.</date>
+               </dateline>
+               <lb/>
+God ſaue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Imprinted at London by Bonham Norton and Iohn Bill, Prin<g ref="char:EOLhyphen"/>ters to the Kings moſt Excellent Maieſtie. 1624.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
